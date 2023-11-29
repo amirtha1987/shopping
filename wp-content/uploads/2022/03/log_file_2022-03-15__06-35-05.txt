@@ -1,0 +1,50 @@
+
+---Upload files---
+Content file was not uploaded. Error: No file provided.
+
+---Upload files---
+Redux file was not uploaded. Error: Specified file failed upload test.
+
+---Upload files---
+The import files were successfully uploaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://testerwp.com/wp/bizz-ecommerce
+Data file = not defined!
+Widget file = /var/www/wordpress/wp/wp-content/uploads/sites/22/2022/03/localhost-praveen-themes-bizz-ecommerce-demo-widgets.wie
+Customizer file = /var/www/wordpress/wp/wp-content/uploads/sites/22/2022/03/bizz-ecommerce-export.dat
+Redux files:
+not defined!
+
+---Importing widgets---
+Sidebar : 
+
+Block - No Title - Imported
+Navigation Menu - Menu - Imported
+Block - No Title - Imported
+Block - No Title - Imported
+
+WooCommerce Sidebar : 
+
+Block - No Title - Imported
+Cart - Cart - Imported
+Products by Rating list - Top rated products - Imported
+Recently Viewed Products list - Recently Viewed Products - Imported
+Filter Products by Rating - Average rating - Imported
+Products list - Products - Imported
+Product Tag Cloud - Product tags - Imported
+Filter Products by Attribute - Filter by - Imported
+Filter Products by Price - Filter by price - Imported
+
+open-woo-shop-sidebar : Sidebar does not exist in theme (moving widget to Inactive)
+
+Block - No Title - Imported to Inactive
+Block - No Title - Imported to Inactive
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+

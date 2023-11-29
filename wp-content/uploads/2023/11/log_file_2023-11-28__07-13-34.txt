@@ -1,0 +1,67 @@
+
+---Downloaded files---
+The import files for: Bizz Ecommerce Default were successfully downloaded!
+Initial max execution time = 1000
+Files info:
+Site URL = http://localhost/shopping
+Data file = C:\xampp\htdocs\shopping/wp-content/uploads/2023/11/demo-content-import-file_2023-11-28__07-13-34.xml
+Widget file = C:\xampp\htdocs\shopping/wp-content/uploads/2023/11/demo-widgets-import-file_2023-11-28__07-13-34.json
+Customizer file = C:\xampp\htdocs\shopping/wp-content/uploads/2023/11/demo-customizer-import-file_2023-11-28__07-13-34.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Sidebar : 
+
+Block - No Title - Widget already exists
+Block - No Title - Imported
+Block - No Title - Imported
+Block - No Title - Imported
+Navigation Menu - Menu - Imported
+
+Footer Widgets : 
+
+Block - No Title - Imported
+Products list - Products - Imported
+Products by Rating list - Top Rated Products - Imported
+Block - No Title - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+

@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Personal Care &#8211; shopping</title>
+	<atom:link href="https://amirtha1987.github.io/shopping/index.php/product-category/personal-care/feed/" rel="self" type="application/rss+xml" />
+	<link>https://amirtha1987.github.io/shopping</link>
+	<description></description>
+	<lastBuildDate>Tue, 28 Nov 2023 07:12:15 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.1</generator>
+	<item>
+		<title>Personal Care</title>
+		<link></link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 28 Nov 2023 07:12:15 +0000</pubDate>
+				<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[Showing all 5 results Default sorting Sort by popularity Sort by average rating Sort by latest Sort by price: low to high Sort by price: high to low Sale! Hibiscus Shampoo &#8377;199.00 &#8377;149.00 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent ultrices et metus sit amet dapibus. Fusce non nibh purus. Sed pulvinar diam&#8230;]]></description>
+										<content:encoded><![CDATA[<div class="woocommerce columns-4 "><div id="shop-product-wrap" class="texture-grid-view"><div class="woocommerce-notices-wrapper"></div><p class="woocommerce-result-count">
+	Showing all 5 results</p>
+<form class="woocommerce-ordering" method="get">
+	<select name="orderby" class="orderby" aria-label="Shop order">
+					<option value="menu_order"  selected='selected'>Default sorting</option>
+					<option value="popularity" >Sort by popularity</option>
+					<option value="rating" >Sort by average rating</option>
+					<option value="date" >Sort by latest</option>
+					<option value="price" >Sort by price: low to high</option>
+					<option value="price-desc" >Sort by price: high to low</option>
+			</select>
+	<input type="hidden" name="paged" value="1" />
+	<input type="hidden" name="simply_static_page" value="18660" /></form>
+<ul class="products columns-4">
+<li class="texture-woo-product-list opn-qv-enable bizz-ecommerce-woo-hover- open-single-product-tab-horizontal open-shadow- open-shadow-hover- product type-product post-172 status-publish first instock product_cat-personal-care has-post-thumbnail sale shipping-taxable purchasable product-type-simple">
+	<div class="texture-product-wrap"><div class="texture-product"><a href="https://amirtha1987.github.io/shopping/index.php/product/hibiscus-shampoo/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><div class="texture-product-image">
+	<span class="onsale">Sale!</span>
+	<img width="300" height="300" src="https://amirtha1987.github.io/shopping/wp-content/uploads/2022/02/care3.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" decoding="async" /></div><div class="texture-product-content"><a href="https://amirtha1987.github.io/shopping/index.php/product/hibiscus-shampoo/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><h2 class="woocommerce-loop-product__title">Hibiscus Shampoo</h2>
+	<span class="price"><del aria-hidden="true"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#8377;</span>199.00</bdi></span></del> <ins><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#8377;</span>149.00</bdi></span></ins></span>
+</div><div class="texture-product-hover"></a>           <div class="os-product-excerpt"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent ultrices et metus sit amet dapibus. Fusce non nibh purus. Sed pulvinar diam at erat vestibulum rhoncus. In ornare, lorem eu pharetra cursus, nulla orci maximus nisi, nec aliquet odio lectus sed lorem. Donec dignissim iaculis quam et lobortis. Integer augue lacus, viverra et turpis nec, sagittis ultrices urna. Quisque et turpis vel nisi egestas lobortis eget in leo. Fusce pellentesque erat id egestas lacinia. Integer finibus erat ut diam iaculis, eget faucibus ex sollicitudin.</p>
+</div>
+        <a href="https://amirtha1987.github.io/shopping/index.php/product/hibiscus-shampoo/?add-to-cart=172" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="172" data-product_sku="" aria-label="Add &ldquo;Hibiscus Shampoo&rdquo; to your cart" aria-describedby="" rel="nofollow">Add to cart</a><div class="texture-quik">
+			             <div class="texture-quickview">
+                               <span class="quik-view">
+                                   <a href="#" class="opn-quick-view-text" data-product_id="172">
+                                      <span>Quick View</span>
+                                    
+                                   </a>
+                            </span>
+                          </div></div><div class="texture-wishlist"><span class="texture-wishlist-inner">
+<div
+	class="yith-wcwl-add-to-wishlist add-to-wishlist-172  wishlist-fragment on-first-load"
+	data-fragment-ref="172"
+	data-fragment-options="{&quot;base_url&quot;:&quot;&quot;,&quot;in_default_wishlist&quot;:false,&quot;is_single&quot;:false,&quot;show_exists&quot;:false,&quot;product_id&quot;:172,&quot;parent_product_id&quot;:172,&quot;product_type&quot;:&quot;simple&quot;,&quot;show_view&quot;:false,&quot;browse_wishlist_text&quot;:&quot;Added&quot;,&quot;already_in_wishslist_text&quot;:&quot;Already&quot;,&quot;product_added_text&quot;:&quot;Product added!&quot;,&quot;heading_icon&quot;:&quot;fa-heart-o&quot;,&quot;available_multi_wishlist&quot;:false,&quot;disable_wishlist&quot;:false,&quot;show_count&quot;:false,&quot;ajax_loading&quot;:false,&quot;loop_position&quot;:&quot;after_add_to_cart&quot;,&quot;item&quot;:&quot;add_to_wishlist&quot;}"
+>
+			
+			<!-- ADD TO WISHLIST -->
+			
+<div class="yith-wcwl-add-button">
+		<a
+		href="?add_to_wishlist=172&#038;_wpnonce=d4511bdedf"
+		class="add_to_wishlist single_add_to_wishlist"
+		data-product-id="172"
+		data-product-type="simple"
+		data-original-product-id="172"
+		data-title="wishlist"
+		rel="nofollow"
+	>
+		<i class="yith-wcwl-icon fa fa fa-heart-o"></i>		<span>wishlist</span>
+	</a>
+</div>
+
+			<!-- COUNT TEXT -->
+			
+			</div>
+</span></div></div></div></div></li>
+<li class="texture-woo-product-list opn-qv-enable bizz-ecommerce-woo-hover- open-single-product-tab-horizontal open-shadow- open-shadow-hover- product type-product post-170 status-publish instock product_cat-personal-care has-post-thumbnail sale shipping-taxable purchasable product-type-simple">
+	<div class="texture-product-wrap"><div class="texture-product"><a href="https://amirtha1987.github.io/shopping/index.php/product/indian-rose-shower-gel/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><div class="texture-product-image">
+	<span class="onsale">Sale!</span>
+	<img width="300" height="300" src="https://amirtha1987.github.io/shopping/wp-content/uploads/2022/02/care2.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" decoding="async" /></div><div class="texture-product-content"><a href="https://amirtha1987.github.io/shopping/index.php/product/indian-rose-shower-gel/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><h2 class="woocommerce-loop-product__title">Indian Rose Shower Gel</h2>
+	<span class="price"><del aria-hidden="true"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#8377;</span>289.00</bdi></span></del> <ins><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#8377;</span>279.00</bdi></span></ins></span>
+</div><div class="texture-product-hover"></a>           <div class="os-product-excerpt"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent ultrices et metus sit amet dapibus. Fusce non nibh purus. Sed pulvinar diam at erat vestibulum rhoncus. In ornare, lorem eu pharetra cursus, nulla orci maximus nisi, nec aliquet odio lectus sed lorem. Donec dignissim iaculis quam et lobortis. Integer augue lacus, viverra et turpis nec, sagittis ultrices urna. Quisque et turpis vel nisi egestas lobortis eget in leo. Fusce pellentesque erat id egestas lacinia. Integer finibus erat ut diam iaculis, eget faucibus ex sollicitudin.</p>
+</div>
+        <a href="https://amirtha1987.github.io/shopping/index.php/product/indian-rose-shower-gel/?add-to-cart=170" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="170" data-product_sku="" aria-label="Add &ldquo;Indian Rose Shower Gel&rdquo; to your cart" aria-describedby="" rel="nofollow">Add to cart</a><div class="texture-quik">
+			             <div class="texture-quickview">
+                               <span class="quik-view">
+                                   <a href="#" class="opn-quick-view-text" data-product_id="170">
+                                      <span>Quick View</span>
+                                    
+                                   </a>
+                            </span>
+                          </div></div><div class="texture-wishlist"><span class="texture-wishlist-inner">
+<div
+	class="yith-wcwl-add-to-wishlist add-to-wishlist-170  wishlist-fragment on-first-load"
+	data-fragment-ref="170"
+	data-fragment-options="{&quot;base_url&quot;:&quot;&quot;,&quot;in_default_wishlist&quot;:false,&quot;is_single&quot;:false,&quot;show_exists&quot;:false,&quot;product_id&quot;:170,&quot;parent_product_id&quot;:170,&quot;product_type&quot;:&quot;simple&quot;,&quot;show_view&quot;:false,&quot;browse_wishlist_text&quot;:&quot;Added&quot;,&quot;already_in_wishslist_text&quot;:&quot;Already&quot;,&quot;product_added_text&quot;:&quot;Product added!&quot;,&quot;heading_icon&quot;:&quot;fa-heart-o&quot;,&quot;available_multi_wishlist&quot;:false,&quot;disable_wishlist&quot;:false,&quot;show_count&quot;:false,&quot;ajax_loading&quot;:false,&quot;loop_position&quot;:&quot;after_add_to_cart&quot;,&quot;item&quot;:&quot;add_to_wishlist&quot;}"
+>
+			
+			<!-- ADD TO WISHLIST -->
+			
+<div class="yith-wcwl-add-button">
+		<a
+		href="?add_to_wishlist=170&#038;_wpnonce=d4511bdedf"
+		class="add_to_wishlist single_add_to_wishlist"
+		data-product-id="170"
+		data-product-type="simple"
+		data-original-product-id="170"
+		data-title="wishlist"
+		rel="nofollow"
+	>
+		<i class="yith-wcwl-icon fa fa fa-heart-o"></i>		<span>wishlist</span>
+	</a>
+</div>
+
+			<!-- COUNT TEXT -->
+			
+			</div>
+</span></div></div></div></div></li>
+<li class="texture-woo-product-list opn-qv-enable bizz-ecommerce-woo-hover- open-single-product-tab-horizontal open-shadow- open-shadow-hover- product type-product post-176 status-publish instock product_cat-personal-care has-post-thumbnail sale shipping-taxable purchasable product-type-simple">
+	<div class="texture-product-wrap"><div class="texture-product"><a href="https://amirtha1987.github.io/shopping/index.php/product/mitho-sun-protection-cream/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><div class="texture-product-image">
+	<span class="onsale">Sale!</span>
+	<img width="300" height="300" src="https://amirtha1987.github.io/shopping/wp-content/uploads/2022/02/care5.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" decoding="async" /></div><div class="texture-product-content"><a href="https://amirtha1987.github.io/shopping/index.php/product/mitho-sun-protection-cream/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><h2 class="woocommerce-loop-product__title">Mitho Sun Protection Cream</h2>
+	<span class="price"><del aria-hidden="true"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#8377;</span>249.00</bdi></span></del> <ins><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#8377;</span>199.00</bdi></span></ins></span>
+</div><div class="texture-product-hover"></a>           <div class="os-product-excerpt"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent ultrices et metus sit amet dapibus. Fusce non nibh purus. Sed pulvinar diam at erat vestibulum rhoncus. In ornare, lorem eu pharetra cursus, nulla orci maximus nisi, nec aliquet odio lectus sed lorem. Donec dignissim iaculis quam et lobortis. Integer augue lacus, viverra et turpis nec, sagittis ultrices urna. Quisque et turpis vel nisi egestas lobortis eget in leo. Fusce pellentesque erat id egestas lacinia. Integer finibus erat ut diam iaculis, eget faucibus ex sollicitudin.</p>
+</div>
+        <a href="https://amirtha1987.github.io/shopping/index.php/product/mitho-sun-protection-cream/?add-to-cart=176" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="176" data-product_sku="" aria-label="Add &ldquo;Mitho Sun Protection Cream&rdquo; to your cart" aria-describedby="" rel="nofollow">Add to cart</a><div class="texture-quik">
+			             <div class="texture-quickview">
+                               <span class="quik-view">
+                                   <a href="#" class="opn-quick-view-text" data-product_id="176">
+                                      <span>Quick View</span>
+                                    
+                                   </a>
+                            </span>
+                          </div></div><div class="texture-wishlist"><span class="texture-wishlist-inner">
+<div
+	class="yith-wcwl-add-to-wishlist add-to-wishlist-176  wishlist-fragment on-first-load"
+	data-fragment-ref="176"
+	data-fragment-options="{&quot;base_url&quot;:&quot;&quot;,&quot;in_default_wishlist&quot;:false,&quot;is_single&quot;:false,&quot;show_exists&quot;:false,&quot;product_id&quot;:176,&quot;parent_product_id&quot;:176,&quot;product_type&quot;:&quot;simple&quot;,&quot;show_view&quot;:false,&quot;browse_wishlist_text&quot;:&quot;Added&quot;,&quot;already_in_wishslist_text&quot;:&quot;Already&quot;,&quot;product_added_text&quot;:&quot;Product added!&quot;,&quot;heading_icon&quot;:&quot;fa-heart-o&quot;,&quot;available_multi_wishlist&quot;:false,&quot;disable_wishlist&quot;:false,&quot;show_count&quot;:false,&quot;ajax_loading&quot;:false,&quot;loop_position&quot;:&quot;after_add_to_cart&quot;,&quot;item&quot;:&quot;add_to_wishlist&quot;}"
+>
+			
+			<!-- ADD TO WISHLIST -->
+			
+<div class="yith-wcwl-add-button">
+		<a
+		href="?add_to_wishlist=176&#038;_wpnonce=d4511bdedf"
+		class="add_to_wishlist single_add_to_wishlist"
+		data-product-id="176"
+		data-product-type="simple"
+		data-original-product-id="176"
+		data-title="wishlist"
+		rel="nofollow"
+	>
+		<i class="yith-wcwl-icon fa fa fa-heart-o"></i>		<span>wishlist</span>
+	</a>
+</div>
+
+			<!-- COUNT TEXT -->
+			
+			</div>
+</span></div></div></div></div></li>
+<li class="texture-woo-product-list opn-qv-enable bizz-ecommerce-woo-hover- open-single-product-tab-horizontal open-shadow- open-shadow-hover- product type-product post-168 status-publish last instock product_cat-personal-care has-post-thumbnail sale shipping-taxable purchasable product-type-simple">
+	<div class="texture-product-wrap"><div class="texture-product"><a href="https://amirtha1987.github.io/shopping/index.php/product/nutgrass-wash/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><div class="texture-product-image">
+	<span class="onsale">Sale!</span>
+	<img width="300" height="300" src="https://amirtha1987.github.io/shopping/wp-content/uploads/2022/02/care1.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" decoding="async" /></div><div class="texture-product-content"><a href="https://amirtha1987.github.io/shopping/index.php/product/nutgrass-wash/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><h2 class="woocommerce-loop-product__title">Nutgrass Face Wash</h2>
+	<span class="price"><del aria-hidden="true"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#8377;</span>200.00</bdi></span></del> <ins><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#8377;</span>199.00</bdi></span></ins></span>
+</div><div class="texture-product-hover"></a>           <div class="os-product-excerpt"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent ultrices et metus sit amet dapibus. Fusce non nibh purus. Sed pulvinar diam at erat vestibulum rhoncus. In ornare, lorem eu pharetra cursus, nulla orci maximus nisi, nec aliquet odio lectus sed lorem. Donec dignissim iaculis quam et lobortis. Integer augue lacus, viverra et turpis nec, sagittis ultrices urna. Quisque et turpis vel nisi egestas lobortis eget in leo. Fusce pellentesque erat id egestas lacinia. Integer finibus erat ut diam iaculis, eget faucibus ex sollicitudin.</p>
+</div>
+        <a href="https://amirtha1987.github.io/shopping/index.php/product/nutgrass-wash/?add-to-cart=168" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="168" data-product_sku="" aria-label="Add &ldquo;Nutgrass Face Wash&rdquo; to your cart" aria-describedby="" rel="nofollow">Add to cart</a><div class="texture-quik">
+			             <div class="texture-quickview">
+                               <span class="quik-view">
+                                   <a href="#" class="opn-quick-view-text" data-product_id="168">
+                                      <span>Quick View</span>
+                                    
+                                   </a>
+                            </span>
+                          </div></div><div class="texture-wishlist"><span class="texture-wishlist-inner">
+<div
+	class="yith-wcwl-add-to-wishlist add-to-wishlist-168  wishlist-fragment on-first-load"
+	data-fragment-ref="168"
+	data-fragment-options="{&quot;base_url&quot;:&quot;&quot;,&quot;in_default_wishlist&quot;:false,&quot;is_single&quot;:false,&quot;show_exists&quot;:false,&quot;product_id&quot;:168,&quot;parent_product_id&quot;:168,&quot;product_type&quot;:&quot;simple&quot;,&quot;show_view&quot;:false,&quot;browse_wishlist_text&quot;:&quot;Added&quot;,&quot;already_in_wishslist_text&quot;:&quot;Already&quot;,&quot;product_added_text&quot;:&quot;Product added!&quot;,&quot;heading_icon&quot;:&quot;fa-heart-o&quot;,&quot;available_multi_wishlist&quot;:false,&quot;disable_wishlist&quot;:false,&quot;show_count&quot;:false,&quot;ajax_loading&quot;:false,&quot;loop_position&quot;:&quot;after_add_to_cart&quot;,&quot;item&quot;:&quot;add_to_wishlist&quot;}"
+>
+			
+			<!-- ADD TO WISHLIST -->
+			
+<div class="yith-wcwl-add-button">
+		<a
+		href="?add_to_wishlist=168&#038;_wpnonce=d4511bdedf"
+		class="add_to_wishlist single_add_to_wishlist"
+		data-product-id="168"
+		data-product-type="simple"
+		data-original-product-id="168"
+		data-title="wishlist"
+		rel="nofollow"
+	>
+		<i class="yith-wcwl-icon fa fa fa-heart-o"></i>		<span>wishlist</span>
+	</a>
+</div>
+
+			<!-- COUNT TEXT -->
+			
+			</div>
+</span></div></div></div></div></li>
+<li class="texture-woo-product-list opn-qv-enable bizz-ecommerce-woo-hover- open-single-product-tab-horizontal open-shadow- open-shadow-hover- product type-product post-174 status-publish first instock product_cat-personal-care has-post-thumbnail sale shipping-taxable purchasable product-type-simple">
+	<div class="texture-product-wrap"><div class="texture-product"><a href="https://amirtha1987.github.io/shopping/index.php/product/tulsi-neem-face-wash/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><div class="texture-product-image">
+	<span class="onsale">Sale!</span>
+	<img width="300" height="300" src="https://amirtha1987.github.io/shopping/wp-content/uploads/2022/02/care4.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" decoding="async" /></div><div class="texture-product-content"><a href="https://amirtha1987.github.io/shopping/index.php/product/tulsi-neem-face-wash/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><h2 class="woocommerce-loop-product__title">Tulsi Neem Face Wash</h2>
+	<span class="price"><del aria-hidden="true"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#8377;</span>299.00</bdi></span></del> <ins><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#8377;</span>199.00</bdi></span></ins></span>
+</div><div class="texture-product-hover"></a>           <div class="os-product-excerpt"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent ultrices et metus sit amet dapibus. Fusce non nibh purus. Sed pulvinar diam at erat vestibulum rhoncus. In ornare, lorem eu pharetra cursus, nulla orci maximus nisi, nec aliquet odio lectus sed lorem. Donec dignissim iaculis quam et lobortis. Integer augue lacus, viverra et turpis nec, sagittis ultrices urna. Quisque et turpis vel nisi egestas lobortis eget in leo. Fusce pellentesque erat id egestas lacinia. Integer finibus erat ut diam iaculis, eget faucibus ex sollicitudin.</p>
+</div>
+        <a href="https://amirtha1987.github.io/shopping/index.php/product/tulsi-neem-face-wash/?add-to-cart=174" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="174" data-product_sku="" aria-label="Add &ldquo;Tulsi Neem Face Wash&rdquo; to your cart" aria-describedby="" rel="nofollow">Add to cart</a><div class="texture-quik">
+			             <div class="texture-quickview">
+                               <span class="quik-view">
+                                   <a href="#" class="opn-quick-view-text" data-product_id="174">
+                                      <span>Quick View</span>
+                                    
+                                   </a>
+                            </span>
+                          </div></div><div class="texture-wishlist"><span class="texture-wishlist-inner">
+<div
+	class="yith-wcwl-add-to-wishlist add-to-wishlist-174  wishlist-fragment on-first-load"
+	data-fragment-ref="174"
+	data-fragment-options="{&quot;base_url&quot;:&quot;&quot;,&quot;in_default_wishlist&quot;:false,&quot;is_single&quot;:false,&quot;show_exists&quot;:false,&quot;product_id&quot;:174,&quot;parent_product_id&quot;:174,&quot;product_type&quot;:&quot;simple&quot;,&quot;show_view&quot;:false,&quot;browse_wishlist_text&quot;:&quot;Added&quot;,&quot;already_in_wishslist_text&quot;:&quot;Already&quot;,&quot;product_added_text&quot;:&quot;Product added!&quot;,&quot;heading_icon&quot;:&quot;fa-heart-o&quot;,&quot;available_multi_wishlist&quot;:false,&quot;disable_wishlist&quot;:false,&quot;show_count&quot;:false,&quot;ajax_loading&quot;:false,&quot;loop_position&quot;:&quot;after_add_to_cart&quot;,&quot;item&quot;:&quot;add_to_wishlist&quot;}"
+>
+			
+			<!-- ADD TO WISHLIST -->
+			
+<div class="yith-wcwl-add-button">
+		<a
+		href="?add_to_wishlist=174&#038;_wpnonce=d4511bdedf"
+		class="add_to_wishlist single_add_to_wishlist"
+		data-product-id="174"
+		data-product-type="simple"
+		data-original-product-id="174"
+		data-title="wishlist"
+		rel="nofollow"
+	>
+		<i class="yith-wcwl-icon fa fa fa-heart-o"></i>		<span>wishlist</span>
+	</a>
+</div>
+
+			<!-- COUNT TEXT -->
+			
+			</div>
+</span></div></div></div></div></li>
+</ul>
+</div></div>]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
